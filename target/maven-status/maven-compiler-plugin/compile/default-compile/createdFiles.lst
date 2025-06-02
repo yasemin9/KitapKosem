@@ -1,0 +1,11 @@
+controller\LoginServlet.class
+controller\CommentServlet.class
+dao\BookDAO.class
+model\Book.class
+dao\UserDAO.class
+controller\BookServlet.class
+util\DBConnection.class
+controller\RegisterServlet.class
+dao\CommentDAO.class
+model\Comment.class
+model\User.class
